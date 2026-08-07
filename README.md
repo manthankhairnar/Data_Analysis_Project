@@ -138,5 +138,3 @@ the CSVs from `sql/csv/` into the matching tables, then run the queries.
 - 100 possible-duplicate customer records and 43 date-logic errors are
   flagged, not resolved — this needs a human decision (e.g., contacting the
   branch) rather than an automated guess.
-- The SQL queries were designed and validated against the cleaned CSVs;
-  connect them to a live MySQL/PostgreSQL instance to run interactively.
