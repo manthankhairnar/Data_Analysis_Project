@@ -1,5 +1,4 @@
 # Bank Customer, Loan & Credit Card Analysis
-**A fresher-level Data Analyst portfolio project — Excel + SQL only**
 
 ---
 
