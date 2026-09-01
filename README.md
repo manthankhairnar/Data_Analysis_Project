@@ -17,7 +17,7 @@ Built an Excel-based analytics dashboard that consolidates customer, branch, loa
 | Total Customers | 1,050 |
 | Active Customers | 866 (82%) |
 | Total Branches | 30 |
-| Loans Disbursed | ₹1.147M |
+| Loans Disbursed | ₹1,147M |
 | Total Loans Outstanding | ₹364M |
 | NPA / Default Loans | 92 |
 | Total Credit Cards | 500 |
