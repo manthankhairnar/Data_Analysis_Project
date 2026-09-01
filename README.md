@@ -26,7 +26,7 @@ Built an Excel-based analytics dashboard that consolidates customer, branch, loa
 ## 🔍 Key Insights
 
 - **82% customer activity rate** (866 of 1,050) indicates healthy overall engagement across the branch network.
-- **Loan disbursement (₹1.147M) vs. outstanding (₹364M)** highlights the gap between what's been lent and what remains on the books — a key input for repayment and portfolio-movement analysis.
+- **Loan disbursement (₹1,147M) vs. outstanding (₹364M)** highlights the gap between what's been lent and what remains on the books — a key input for repayment and portfolio-movement analysis.
 - **92 NPA/default accounts** were isolated as the specific segment requiring credit-risk attention, rather than leaving risk buried in the full loan book.
 - **₹94M in credit card outstanding** adds a second, separate view of customer credit exposure alongside the loan portfolio.
 
