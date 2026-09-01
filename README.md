@@ -1,5 +1,7 @@
 # Bank Customer, Loan & Credit Card Dashboard
 
+An Excel-based analytics project that consolidates a bank's customer, loan, and credit card data into a single KPI dashboard — giving a fast, management-ready view of portfolio health and credit risk across 1,050 customers, 30 branches, and 500 credit cards.
+
 ## 📌 The Problem
 
 A bank's leadership needs a fast, reliable way to answer basic portfolio-health questions — how many customers are actually active, how much loan exposure is outstanding, which accounts are turning into NPAs (non-performing assets), and how much credit risk sits in the card portfolio. Without a consolidated view, this data is scattered across separate customer, loan, and credit card records, making it slow and error-prone to spot risk early.
